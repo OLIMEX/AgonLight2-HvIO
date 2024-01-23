@@ -18,3 +18,8 @@ Features:
 * Power supply 3.3V and 5V LED indicators
 * Dimensions 100x70mm
 
+## Licenses
+
+* Hardware is released under CERN Open Hardware Licence Version 2 - Strongly Reciprocal, all silkscreen credits to Olimex should remain;
+* Software is released under GPL3 Licensee
+* Documentation is released under CC BY-SA 4.0
